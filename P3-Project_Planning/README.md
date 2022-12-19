@@ -13,7 +13,9 @@ Include at least 3 wireframes here, adding images or files to your repository as
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/EYjv87ae/launchcode-lift-off
 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+https://github.com/Code1PK/Job-Seeker-Web-App
